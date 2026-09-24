@@ -2,6 +2,7 @@ package model;
 
 public class Dispositivo {
     private String ip;
+    private String ip;
     private String nombreEquipo;
     private boolean activo;
     private long tiempoRespuesta;
